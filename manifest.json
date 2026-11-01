@@ -1,6 +1,6 @@
 {
-  "name": "Nuvio Latino",
-  "version": "13.0.1",
+  "name": "Nuvio Latino Combined",
+  "version": "13.1.0",
   "scrapers": [
     {
       "id": "embed69",
@@ -21,7 +21,9 @@
       "formats": [
         "m3u8",
         "mp4"
-      ]
+      ],
+      "limited": false,
+      "supportsExternalPlayer": true
     },
     {
       "id": "sololatino",
@@ -102,7 +104,7 @@
         "movie",
         "tv"
       ],
-      "filename": "providers/hackstore2.js",
+      "filename": "providers/hackstore.js",
       "enabled": true,
       "logo": "https://hackstore.mx/wp-content/uploads/2025/07/cropped-fire-1-180x180.png",
       "contentLanguage": [
@@ -401,9 +403,16 @@
       ],
       "filename": "providers/zoowomaniacos.js",
       "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=proyectox.yoyatengoabuela.com&sz=128",
       "contentLanguage": [
         "es"
-      ]
+      ],
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "limited": false,
+      "supportsExternalPlayer": true
     },
     {
       "id": "peliserieshoy",
@@ -417,9 +426,16 @@
       ],
       "filename": "providers/peliserieshoy.js",
       "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=pelisserieshoy.com&sz=128",
       "contentLanguage": [
         "es"
-      ]
+      ],
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "limited": false,
+      "supportsExternalPlayer": true
     },
     {
       "id": "seriesflix",
@@ -432,9 +448,16 @@
       ],
       "filename": "providers/seriesflix.js",
       "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=seriesflixhd.best&sz=128",
       "contentLanguage": [
         "es"
-      ]
+      ],
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "limited": false,
+      "supportsExternalPlayer": true
     },
     {
       "id": "detodopeliculas",
@@ -448,9 +471,16 @@
       ],
       "filename": "providers/detodopeliculas.js",
       "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=detodopeliculas.nu&sz=128",
       "contentLanguage": [
         "es"
-      ]
+      ],
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "limited": false,
+      "supportsExternalPlayer": true
     }
   ]
 }
