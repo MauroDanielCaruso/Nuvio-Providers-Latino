@@ -1,6 +1,6 @@
 {
   "name": "Nuvio Latino Combined",
-  "version": "13.1.0",
+  "version": "13.1.1",
   "scrapers": [
     {
       "id": "embed69",
@@ -196,7 +196,7 @@
         "tv"
       ],
       "filename": "providers/xupalace.js",
-      "enabled": true,
+      "enabled": false,
       "logo": "https://static.vecteezy.com/system/resources/previews/004/532/988/non_2x/cinema-set-in-flat-design-style-popcorn-soda-or-coffee-movie-clapper-and-reel-vector.jpg",
       "contentLanguage": [
         "es"
@@ -242,7 +242,7 @@
         "tv"
       ],
       "filename": "providers/playhubmax.js",
-      "enabled": true,
+      "enabled": false,
       "logo": "https://i.ibb.co/qqKWJyk/logo-rayo-morado-fondo-blanco-121452-121.png",
       "contentLanguage": [
         "es"
@@ -380,7 +380,7 @@
         "tv"
       ],
       "filename": "providers/cuevana_unbuendato.js",
-      "enabled": true,
+      "enabled": false,
       "logo": "https://i.postimg.cc/4dJGhTmW/Gemini-Generated-Image-w81fzfw81fzfw81f.png",
       "contentLanguage": [
         "es"
@@ -402,7 +402,7 @@
         "movie"
       ],
       "filename": "providers/zoowomaniacos.js",
-      "enabled": true,
+      "enabled": false,
       "logo": "https://www.google.com/s2/favicons?domain=proyectox.yoyatengoabuela.com&sz=128",
       "contentLanguage": [
         "es"
